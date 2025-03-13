@@ -1,2 +1,2 @@
 # google_scraping
-brigthDataのproxyサービスを利用したGoogle検索順位スクレイピングシステム
+brigthDataのproxyサービスを利用したGoogle検索順位スクレイピングクラス
