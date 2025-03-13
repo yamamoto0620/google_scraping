@@ -1,0 +1,2 @@
+# google_scraping
+brigthDataのproxyサービスを利用したGoogle検索順位スクレイピングシステム
